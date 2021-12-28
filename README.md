@@ -11,9 +11,11 @@ Day 01 - DONE
 Day 02 - DONE
 ->MiCard = Learned ListTile,Card,Container,Icon,Text widget
 
-Day 03 - 
+Day 03 - DONE
+->made a Dice app. Learend statefull widget and setState. Then made magic8ball for challange
 
-Day 04 - 
+Day 04 - DONE
+->Made a audioplayer app. Learned how to implement package from pub.dev to my app, and TextButton
 
 Day 05 - 
 
