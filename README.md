@@ -17,9 +17,11 @@ Day 03 - DONE
 Day 04 - DONE
 ->Made a audioplayer app. Learned how to implement package from pub.dev to my app, and TextButton
 
-Day 05 - 
+Day 05 - DONE
+-> Made a quizapp. Learned randomly change text from Random Class. and made Destiny App for challange
 
-Day 06 - 
+Day 06 - DONE
+->Made a BMICalculator and learned so many things. Navigation, class, made your own customize widget etc.
 
 Day 07 - 
 
