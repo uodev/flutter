@@ -23,9 +23,11 @@ Day 05 - DONE
 Day 06 - DONE
 ->Made a BMICalculator and learned so many things. Navigation, class, made your own customize widget etc.
 
-Day 07 - 
+Day 07 - DONE
+-> I tried geolocator package. But I took so many errors and i didn't solved them.
 
-Day 08 - 
+Day 08 - DONE
+->Finally i solved all erros and got user location.
 
 Day 09 -
 
